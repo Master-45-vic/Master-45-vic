@@ -14,7 +14,7 @@ style="margin-left:30px;">
 - 🌱 Machine Learning And Data Science Enthusiast | AI and IoT Applications
 - 🎓 Second-year Engineering Student at <img src="https://github.com/user-attachments/assets/3aa362b5-7cbf-41af-bd06-261ed81ed78f" height="25" width="150">
 - 🧠 Passionate About Solving Real-World Problems Using Data
-- 📄 Check Out My Resume [Prasanth M](https://drive.google.com/file/d/1b6BnaA7CEQzvvTa1A1KFrKr8MH1C6X7O/view?usp=drive_link)
+- 📄 Check Out My Resume [Prasanth M](https://drive.google.com/file/d/1E8GmKVQQpppRvvoGd_IeVEDtFvtcsSh0/view?usp=drive_link)
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/prasanth-data-science)
 
 <br clear="right">
