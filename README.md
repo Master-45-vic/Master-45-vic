@@ -23,15 +23,27 @@ style="margin-left:30px;">
 <h2 align="center">⚡ My Skills</h2>
 
 <div align="center">
-    <img src="terminal.gif" width="750" alt="My Skills Terminal GIF"/>
+    <img src="terminal.gif" width="1000" alt="My Skills Terminal GIF"/>
 </div>
 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/raspberry-pi.png" alt="raspberry-pi"/>
 
+
+
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
+
+## 🏆 LeetCode Stats
+
+<div align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/prasanth_mastert_45?theme=dark&font=Anek%20Telugu&ext=heatmap"
+    width="1000"
+    alt="LeetCode Stats"
+  />
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
