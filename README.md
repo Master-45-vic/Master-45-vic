@@ -16,6 +16,7 @@ style="margin-left:30px;">
 - 🧠 Passionate About Solving Real-World Problems Using Data
 - 📄 Check Out My Resume [Prasanth M](https://drive.google.com/file/d/1E8GmKVQQpppRvvoGd_IeVEDtFvtcsSh0/view?usp=drive_link)
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/prasanth-data-science)
+- 🌐 Check out My [Portfolio](https://portfolio-inky-five-wrjptzub2g.vercel.app/)
 
 <br clear="right">
 <br><br>
